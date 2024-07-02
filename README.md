@@ -1,7 +1,3 @@
-# My Project
-
-This is a description of my project.
-
+# Flexbox Zombies Solutions
 ![Flexbox Zombies Background](https://mastery.games/flexboxzombies/conversation/background2.jpg)
-
-More details about the project go here.
+I have created this repo to store my solutions to the game [Flexbox Zombies](https://mastery.games/flexboxzombies/).
