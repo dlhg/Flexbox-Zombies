@@ -1,0 +1,9 @@
+crossbow {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+/*
+Despite align-items' default value being stretch, the game is asking for it to be explicitly set to stretch in order to cement this concept.
+*/
