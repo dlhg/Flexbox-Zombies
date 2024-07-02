@@ -1,0 +1,9 @@
+crossbow {
+  display: flex;
+  align-items: flex-start;
+}
+
+.target.goo {
+  align-self: stretch;
+  flex-grow: 1;
+}
