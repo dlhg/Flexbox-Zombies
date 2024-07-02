@@ -1,0 +1,15 @@
+crossbow {
+  display: flex;
+  align-items: flex-end;
+}
+
+.target.goo {
+  flex-shrink: 1;
+  flex-grow: 1;
+  align-self: flex-start;
+}
+
+.target:nth-of-type(1) {
+  flex-shrink: 0;
+  flex-grow: 3;
+}

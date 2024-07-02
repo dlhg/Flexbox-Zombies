@@ -1,0 +1,12 @@
+crossbow {
+  display: flex;
+}
+
+.target.goo {
+  align-self: flex-start;
+  flex-grow: 1;
+}
+
+.target.male {
+  align-self: center;
+}
