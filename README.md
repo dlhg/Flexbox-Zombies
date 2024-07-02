@@ -9,4 +9,4 @@ This game features multiple chapters, each consisting of multiple levels. There 
   3) New concept - this is a type of challenge where the mentor introduces a new concept and either provides the solution or strongly hints at it
   4) Challenge - this is a type of challenge where no new concept is introduced, and the mentor either provides no hint, or a more subtle hint
 
-In this repo, each chapter of the game is given its own folder. For the purposes of this repo, I am using the .txt extension for level types 1 and 2 and the .css extension for level types 3 and 4.
+In this repo, each chapter of the game is given its own folder. I am using the .txt extension for level types 1 and 2 and the .css extension for level types 3 and 4.
