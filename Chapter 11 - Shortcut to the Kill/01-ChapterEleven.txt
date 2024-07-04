@@ -1,0 +1,2 @@
+This chapter introduces the flex and flex-flow properties
+Flex is a shorthand for three settings: flex-grow, flex-shrink, and flex-basis
