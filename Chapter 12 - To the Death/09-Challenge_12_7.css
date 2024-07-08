@@ -1,0 +1,14 @@
+crossbow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.target:nth-of-type(2) {
+  align-self: stretch;
+}
+
+.target:nth-of-type(3) {
+  flex-grow: 1;
+  flex-shrink: 0;
+}

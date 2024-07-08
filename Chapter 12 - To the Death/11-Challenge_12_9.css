@@ -1,0 +1,14 @@
+crossbow {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.target.dave {
+  order: 1;
+  align-self: flex-start;
+}
+
+.target.goo {
+  align-self: flex-end;
+}

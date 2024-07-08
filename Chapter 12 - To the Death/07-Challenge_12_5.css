@@ -1,0 +1,9 @@
+crossbow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.target:nth-of-type(2) {
+  flex-grow: 1;
+}
